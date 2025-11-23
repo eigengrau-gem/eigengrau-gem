@@ -1,16 +1,29 @@
-## Hi there 👋
+# 👋 Hi, I'm John Vincent Barrozo!
 
-<!--
-**eigengrau-gem/eigengrau-gem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🎓 About Me
+I'm a 2nd year **BS Computer Science** student at the **University of the Philippines Baguio**.  
+I'm currently building my foundations in programming, algorithms, and data-driven thinking.
 
-Here are some ideas to get you started:
+### 🧠 What I Know
+- **C Language** — my first programming language  
+- **Python & Java** — currently learning and practicing  
+- **Data Analytics** — taking an introductory course to explore data science fundamentals  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👨‍💻 What I'm Working On
+- Exploring small projects to improve my coding skills
+- Learning GitHub early to build good habits and track my progress
+
+### 🌱 What I'm Looking For
+I'm open to beginner-friendly projects, collaborations, and anything that can help me sharpen my problem-solving skills and confidence in development.
+
+### ⚡ Fun Fact
+I'm a shiftee from **BS Mathematics → BS Computer Science**.  
+I thought I was escaping math... but CS said *“nope.”*  
+Still, I'm enjoying CS way more because I finally see the real-world applications.
+
+### 🌈 Pronouns
+**He/Him**
+
+---
+
+Feel free to connect or check out my repositories as I continue learning and growing!

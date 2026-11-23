@@ -1,29 +1,27 @@
-# 👋 Hi, I'm John Vincent Barrozo!
+# Hi, I'm John Vincent Barrozo
 
-### 🎓 About Me
-I'm a 2nd year **BS Computer Science** student at the **University of the Philippines Baguio**.  
-I'm currently building my foundations in programming, algorithms, and data-driven thinking.
+I'm a **BS Computer Science** student at the **University of the Philippines Baguio** (He/Him).
 
-### 🧠 What I Know
-- **C Language** — my first programming language  
-- **Python & Java** — currently learning and practicing  
-- **Data Analytics** — taking an introductory course to explore data science fundamentals  
+Outside class, I'm an apprentice at the **Machine Intelligence and Neural Dynamics Laboratory (MINDLab) - UP Baguio** and a peer mentor at the **Learning Resource Center (LRC) - UP Baguio**. I like joining hackathons and conferences, and I enjoy working with people to turn ideas into actual, working products.
 
-### 👨‍💻 What I'm Working On
-- Exploring small projects to improve my coding skills
-- Learning GitHub early to build good habits and track my progress
+### Interests
+- Cybersecurity & Cryptography
+- Quantum Computing
+- Data Science & Data Engineering
 
-### 🌱 What I'm Looking For
-I'm open to beginner-friendly projects, collaborations, and anything that can help me sharpen my problem-solving skills and confidence in development.
+### Tech Stack
+- **Languages:** C, C++, Java, Python, R, SQL, Assembly (NASM)
+- **Web:** HTML, CSS, JavaScript, jQuery, Bootstrap
 
-### ⚡ Fun Fact
-I'm a shiftee from **BS Mathematics → BS Computer Science**.  
-I thought I was escaping math... but CS said *“nope.”*  
-Still, I'm enjoying CS way more because I finally see the real-world applications.
+### Currently Learning
+- Taking courses in **Post-Quantum Cryptography**
+- Preparing for a **Cybersecurity certification**
+- Practicing data science and data engineering fundamentals
 
-### 🌈 Pronouns
-**He/Him**
+### Outside Tech
+When I'm not coding or studying, I'm usually reading, out on a hike, or just having good conversations with people.
 
----
+**Fun fact:** I shifted from **BS Mathematics** to **BS Computer Science** thinking I could escape math, and CS quickly said "nope." Still enjoying CS a lot more because I get to see how it all gets built and applied.
 
-Feel free to connect or check out my repositories as I continue learning and growing!
+### Open To
+I'm open to **work, internships, apprenticeships**, and collaborations on interesting projects. Feel free to look around my repositories or reach out if you have an idea you want to build together.
